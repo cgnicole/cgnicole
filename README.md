@@ -1,8 +1,8 @@
 <!-- Encabezado -->
-<h1 align="center">¡Bienvenida a mi Espacio en GitHub! 🚀</h1>
+<h1 align="center">¡Bienvenid@ a mi Espacio en GitHub! 🚀</h1>
 
 <p align="center">
-  ¡Hola! Soy <strong>Tu Nombre</strong>, una apasionada Full Stack Web Developer con un toque creativo y una pasión por crear experiencias digitales increíbles. Como mujer en la industria, estoy emocionada de compartir contigo mis proyectos y habilidades.
+  ¡Hola! Soy <strong>Nicole Camargo</strong>, una apasionada Full Stack Web Developer con un toque creativo y una pasión por crear experiencias digitales increíbles. Como mujer en la industria, estoy emocionada de compartir contigo mis proyectos y habilidades.
 </p>
 
 <!-- Acerca de Mí -->
