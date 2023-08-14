@@ -25,8 +25,8 @@
 <!-- Mis Proyectos -->
 <h2 align="center">🚀 Mis Proyectos</h2>
 
-<h3><a href="enlace-al-proyecto-1">Proyecto 1: IDE Pintureria</a></h3>
-https://pinturas-app-front-git-pre-develop-pf-pinturas.vercel.app/developers 
+<h3><a href="(https://pinturas-app-front-git-pre-develop-pf-pinturas.vercel.app/developers)">Proyecto 1: IDE Pintureria</a></h3>
+
 <p align="center">
   <img src="https://enlace-a-imagen-proyecto-1" alt="Proyecto 1" width="500">
 </p>
