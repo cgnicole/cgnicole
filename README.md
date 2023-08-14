@@ -32,7 +32,7 @@
 </p>
 
 <p>
-  Breve descripción del proyecto y tu contribución. ¡Incluye capturas de pantalla si es posible!
+  Breve descripción del proyecto y mi contribucion.
 </p>
 
 
@@ -47,7 +47,7 @@
 <p align="center">
   Email: <a href="https://mail.google.com/mail/u/2/#inbox
 ">nicolecamargo004@gmail.com</a><br>
-  LinkedIn: <a href="[https://www.linkedin.com/in/nicole-sofia-camargo-garcia-189648265/]">Tu Perfil de LinkedIn</a><br>
+  LinkedIn: <a href="[https://www.linkedin.com/in/nicole-sofia-camargo-garcia-189648265/]"Nicole Sofia Camargo Garcia</a><br>
 </p>
 
 <!-- Agradecimiento -->
