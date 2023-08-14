@@ -45,9 +45,9 @@ https://pinturas-app-front-git-pre-develop-pf-pinturas.vercel.app/developers
 </p>
 
 <p align="center">
-  Email: <a href="nicolecamargo004@gmail.com
-">tu@email.com</a><br>
-  LinkedIn: <a href="[enlace-a-tu-perfil-de-LinkedIn](https://www.linkedin.com/in/nicole-sofia-camargo-garcia-189648265/)">Tu Perfil de LinkedIn</a><br>
+  Email: <a href="https://mail.google.com/mail/u/2/#inbox
+">nicolecamargo004@gmail.com</a><br>
+  LinkedIn: <a href="[https://www.linkedin.com/in/nicole-sofia-camargo-garcia-189648265/]">Tu Perfil de LinkedIn</a><br>
 </p>
 
 <!-- Agradecimiento -->
