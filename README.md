@@ -47,7 +47,7 @@
 <p align="center">
   Email: <a href="https://mail.google.com/mail/u/2/#inbox
 ">nicolecamargo004@gmail.com</a><br>
-  LinkedIn: <a href="[https://www.linkedin.com/in/nicole-sofia-camargo-garcia-189648265/]"Nicole Sofia Camargo Garcia</a><br>
+  LinkedIn: Nicole Sofia Camargo
 </p>
 
 <!-- Agradecimiento -->
@@ -58,5 +58,4 @@
 </p>
 
 <p align="center">
-  <img src="https://enlace-a-imagen-de-gracias" alt="Gracias">
 </p>
