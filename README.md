@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  Soy <strong>Tu Nombre</strong>, ¡encantada de conocerte! Mi viaje en el desarrollo web comenzó con mi amor por la programación y el diseño. Con experiencia tanto en el Front End como en el Back End, me siento como en casa trabajando con tecnologías como:
+  Soy <strong>Nicole</strong>, ¡encantada de conocerte! Mi viaje en el desarrollo web comenzó con mi amor por la programación y el diseño. Con experiencia tanto en el Front End como en el Back End, me siento como en casa trabajando con tecnologías como:
 </p>
 
 <p align="center">
@@ -25,8 +25,8 @@
 <!-- Mis Proyectos -->
 <h2 align="center">🚀 Mis Proyectos</h2>
 
-<h3><a href="enlace-al-proyecto-1">Proyecto 1: Nombre del Proyecto</a></h3>
-
+<h3><a href="enlace-al-proyecto-1">Proyecto 1: IDE Pintureria</a></h3>
+https://pinturas-app-front-git-pre-develop-pf-pinturas.vercel.app/developers 
 <p align="center">
   <img src="https://enlace-a-imagen-proyecto-1" alt="Proyecto 1" width="500">
 </p>
@@ -35,17 +35,9 @@
   Breve descripción del proyecto y tu contribución. ¡Incluye capturas de pantalla si es posible!
 </p>
 
-<h3><a href="enlace-al-proyecto-2">Proyecto 2: Nombre del Proyecto</a></h3>
 
-<p align="center">
-  <img src="https://enlace-a-imagen-proyecto-2" alt="Proyecto 2" width="500">
-</p>
 
-<p>
-  Breve descripción del proyecto y tu contribución. ¡Incluye capturas de pantalla si es posible!
-</p>
 
-<!-- Contacto -->
 <h2 align="center">📱 ¡Hablemos!</h2>
 
 <p align="center">
@@ -53,9 +45,9 @@
 </p>
 
 <p align="center">
-  Email: <a href="mailto:tu@email.com">tu@email.com</a><br>
-  LinkedIn: <a href="enlace-a-tu-perfil-de-LinkedIn">Tu Perfil de LinkedIn</a><br>
-  Twitter: <a href="enlace-a-tu-perfil-de-Twitter">@TuUsuarioDeTwitter</a>
+  Email: <a href="nicolecamargo004@gmail.com
+">tu@email.com</a><br>
+  LinkedIn: <a href="[enlace-a-tu-perfil-de-LinkedIn](https://www.linkedin.com/in/nicole-sofia-camargo-garcia-189648265/)">Tu Perfil de LinkedIn</a><br>
 </p>
 
 <!-- Agradecimiento -->
