@@ -1,4 +1,3 @@
-<div style="background-image: url("https://images.pexels.com/photos/7130544/pexels-photo-7130544.jpeg?cs=srgb&dl=pexels-codioful-%28formerly-gradienta%29-7130544.jpg&fm=jpg")>
 
 
 
@@ -119,4 +118,4 @@ Gracias por explorar mi espacio en GitHub. Si te ha gustado lo que has visto, ¡
 ![GitHub last commit](https://img.shields.io/github/last-commit/cgnicole/cgnicole)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/cgnicole/cgnicole)
 
-</div>
+
