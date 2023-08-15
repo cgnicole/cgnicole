@@ -104,13 +104,8 @@ Breve descripción del proyecto y mi contribución.
 
 Me encantaría conectarme contigo y discutir ideas emocionantes. Puedes encontrarme en:
 
-- <p align="left">
-  <a href="https://w7.pngwing.com/pngs/608/931/png-transparent-gmail-new-logo-icon.png" target="_blank" rel="noreferrer">
-    <img src="https://w7.pngwing.com/pngs/608/931/png-transparent-gmail-new-logo-icon.png" alt="Nuevo Logo" width="40" height="40"/>
-  </a>
-</p>
- [nicolecamargo004@gmail.com](mailto:nicolecamargo004@gmail.com)
-- LinkedIn: [Nicole Sofia Camargo](https://www.linkedin.com/in/nicole-sofia-camargo-garcia-189648265/)
+- Email: [nicolecamargo004@gmail.com](mailto:nicolecamargo004@gmail.com)
+- LinkedIn: [Nicole Sofia Camargo](https://www.linkedin.com/in/nicole-so
 
 ## 💖 ¡Gracias por Visitar!
 
