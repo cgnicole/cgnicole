@@ -49,8 +49,8 @@ Soy **Nicole**, ¡encantada de conocerte! Mi viaje en el desarrollo web comenzó
    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
-    <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/vitejs/vite/main/docs/src/static/vite.svg" alt="Vite" width="40" height="40"/>
+   <a href="https://talks.antfu.me/2022/vite-on-demand-dx/viteconf.svg" target="_blank" rel="noreferrer">
+    <img src="https://talks.antfu.me/2022/vite-on-demand-dx/viteconf.svg" alt="Vite" width="40" height="40"/>
   </a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
