@@ -9,9 +9,22 @@
 
 Soy **Nicole**, ¡encantada de conocerte! Mi viaje en el desarrollo web comenzó con mi amor por la programación y el diseño. Con experiencia tanto en el Front End como en el Back End, me siento como en casa trabajando con tecnologías como:
 
-- **Front End**: HTML, CSS, JavaScript, ReactJS, Redux
-- **Back End**: Node.js, Sequelize
-- **Metodología**: SCRUM
+## Tecnologías que utilizo
+
+### Front End
+![HTML]([./logos/html-logo.png](https://banner2.cleanpng.com/20190125/wpj/kisspng-computer-icons-html5-scalable-vector-graphics-port-socialpack-chocolate-icon-5c4b3bbcb7d671.680718971548434364753.jpg))
+![CSS](./logos/css-logo.png)
+![JavaScript](./logos/js-logo.png)
+![ReactJS](./logos/react-logo.png)
+![Redux](./logos/redux-logo.png)
+
+### Back End
+![Node.js](./logos/nodejs-logo.png)
+![Sequelize](./logos/sequelize-logo.png)
+
+### Metodología
+![SCRUM](./logos/scrum-logo.png)
+
 
 <!-- Mis Proyectos -->
 ## 🚀 Mis Proyectos
