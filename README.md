@@ -11,15 +11,13 @@
 
 🟣 **¡I'm glad to meet you!** My web development journey began with my love of programming and design. With experience in both Front End and Back End, I feel at home working with technologies such as:
 
-## Backend
+
 
 <p align="left">
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/>
   </a>
-   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="Express.js" width="40" height="40"/>
-  </a>
+  
    <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
@@ -29,11 +27,7 @@
     <a href="https://sequelize.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.freebiesupply.com/logos/large/2x/sequelize-logo-png-transparent.png" alt="Sequelize" width="40" height="40"/>
   </a>
-</p>
 
-## Frontend
-
-<p align="left">
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
@@ -58,11 +52,6 @@
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
   </a>
-</p>
-
-## Softwares and Tools
-
-<p align="left">
  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
     <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" alt="Vercel" width="40" height="40"/>
   </a>
@@ -88,8 +77,9 @@
  <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png" alt="GitHub" width="40" height="40"/>
   </a>
-
-
+   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="Express.js" width="40" height="40"/>
+  </a>
 </p>
 
 ## 🚀 My Projects
