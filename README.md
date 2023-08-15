@@ -106,7 +106,7 @@ Me encantaría conectarme contigo y discutir ideas emocionantes. Puedes encontra
 
 - LinkedIn: [Nicole Sofia Camargo](https://www.linkedin.com/in/nicole-sofia-camargo-garcia-189648265/)
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/nicole-sofia-camargo-garcia-189648265/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Nicole Camargo LinkedIn Profile" width="40" height="40">
   </a>
@@ -116,7 +116,7 @@ Me encantaría conectarme contigo y discutir ideas emocionantes. Puedes encontra
   
 - Email: [nicolecamargo004@gmail.com](mailto:nicolecamargo004@gmail.com)
 
-<p>
+<p align="center">
     <a href="mailto:nicolecamargo004@gmail.com">
     <img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" alt="Nicole Camargo's DEV Profile" width="40" height="40">
   </a>
