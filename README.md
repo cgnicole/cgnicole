@@ -1,15 +1,15 @@
 
 
 
-# ¡Bienvenid@ a mi Espacio en GitHub! 🚀
+# ¡Bienvenid@ a mi Espacio en GitHub! 🚀 🖥
 
 ¡Hola! Soy **Nicole Camargo**, una apasionada Full Stack Web Developer con un toque creativo y una pasión por crear experiencias digitales increíbles. Como mujer en la industria, estoy emocionada de compartir contigo mis proyectos y habilidades.
 
-## 🌟 Acerca de Mí
+## ⭐ Acerca de Mí
 
 ![Desarrolladora](https://scontent.fbog4-1.fna.fbcdn.net/v/t39.30808-6/367691193_631468389084030_6042218217297955225_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=7f8c78&_nc_ohc=FhKv-2BEknsAX_-3r2q&_nc_ht=scontent.fbog4-1.fna&oh=00_AfAumgISDE-m48K2PNVbx1v7gzYXldbngwX39tjPWD-krw&oe=64E0B876)
 
-**¡Estoy encantada de conocerte!** Mi viaje en el desarrollo web comenzó con mi amor por la programación y el diseño. Con experiencia tanto en el Front End como en el Back End, me siento como en casa trabajando con tecnologías como:
+🟣 **¡Estoy encantada de conocerte!** Mi viaje en el desarrollo web comenzó con mi amor por la programación y el diseño. Con experiencia tanto en el Front End como en el Back End, me siento como en casa trabajando con tecnologías como:
 
 ## Backend
 
