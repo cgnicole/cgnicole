@@ -28,7 +28,7 @@ Breve descripción del proyecto y mi contribución.
 Me encantaría conectarme contigo y discutir ideas emocionantes. Puedes encontrarme en:
 
 - Email: [nicolecamargo004@gmail.com](mailto:nicolecamargo004@gmail.com)
-- LinkedIn: [Nicole Sofia Camargo](enlace-a-tu-perfil-de-LinkedIn)
+- LinkedIn: [Nicole Sofia Camargo](https://www.linkedin.com/in/nicole-sofia-camargo-garcia-189648265/)
 
 <!-- Agradecimiento -->
 ## 💖 ¡Gracias por Visitar!
