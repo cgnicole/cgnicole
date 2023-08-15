@@ -61,9 +61,7 @@
   <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio Code" width="40" height="40"/>
   </a>
-<a href="https://www.scrum.org" target="_blank" rel="noreferrer">
-    <img src="https://ih1.redbubble.net/image.2711281674.1945/st,small,507x507-pad,600x600,f8f8f8.jpg" alt="Scrum" width="40" height="40"/>
-  </a>
+
   <a href="https://www.scrum.org" target="_blank" rel="noreferrer">
     <img src="https://www.scrum.org/themes/custom/scrumorg_v2/assets/images/logo-250.png" alt="Scrum" width="40" height="40"/>
   </a>
@@ -79,6 +77,9 @@
   </a>
    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="Express.js" width="40" height="40"/>
+  </a>
+  <a href="https://www.scrum.org" target="_blank" rel="noreferrer">
+    <img src="https://ih1.redbubble.net/image.2711281674.1945/st,small,507x507-pad,600x600,f8f8f8.jpg" alt="Scrum" width="40" height="40"/>
   </a>
 </p>
 
