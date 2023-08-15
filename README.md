@@ -40,12 +40,7 @@ Gracias por explorar mi espacio en GitHub. Si te ha gustado lo que has visto, ¡
 
 ![GitHub followers](https://img.shields.io/github/followers/cgnicole?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/cgnicole?style=social)
-![GitHub forks](https://img.shields.io/github/forks/cgnicole/cgnicole?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/cgnicole/cgnicole?style=social)
 ![GitHub issues](https://img.shields.io/github/issues/cgnicole/cgnicole)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/cgnicole/cgnicole)
 ![GitHub last commit](https://img.shields.io/github/last-commit/cgnicole/cgnicole)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/cgnicole/cgnicole)
-![GitHub repo size](https://img.shields.io/github/repo-size/cgnicole/cgnicole)
-![GitHub code size](https://img.shields.io/github/languages/code-size/cgnicole/cgnicole)
-![GitHub top language](https://img.shields.io/github/languages/top/cgnicole/cgnicole)
+
