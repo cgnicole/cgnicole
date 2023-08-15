@@ -60,8 +60,8 @@ Soy **Nicole**, ¡encantada de conocerte! Mi viaje en el desarrollo web comenzó
 ## Softwares and Tools
 
 <p align="left">
-  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-    <img src="https://scontent.fbog4-1.fna.fbcdn.net/v/t39.30808-6/366058185_631896392374563_1368627130739592162_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=730e14&_nc_ohc=Y57uKRO3YgsAX985x3S&_nc_oc=AQl2JrSmcDsQeNBtdj6rI7vz1UXo5yLj1F-LVKew-JhDJAprFhBGEUABRAlfEqOmTX0&_nc_ht=scontent.fbog4-1.fna&oh=00_AfBwmF9XQ9qUbj0t7k3m8BN343rlzKsNXUATL1iYSsvDYA&oe=64E1BAC3" alt="Vercel" width="45" height="40"/>
+ <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+    <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" alt="Vercel" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
