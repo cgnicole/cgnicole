@@ -1,15 +1,15 @@
 
 
 
-# ¡Bienvenid@ a mi Espacio en GitHub!  🖥
+# ¡Welcome To My Git-Hub Space!  🖥
 
-¡Hola! Soy **Nicole Camargo**, una apasionada Full Stack Web Developer con un toque creativo y una pasión por crear experiencias digitales increíbles. Como mujer en la industria, estoy emocionada de compartir contigo mis proyectos y habilidades.
+¡Hi! I'm **Nicole Camargo**, a passionate Full Stack Web Developer with a creative flair and a passion for creating amazing digital experiences. As a woman in the industry, I am excited to share my projects and skills with you.
 
-## ⭐ Acerca de Mí
+## ⭐ About Me
 
-![Desarrolladora](https://scontent.fbog4-1.fna.fbcdn.net/v/t39.30808-6/367691193_631468389084030_6042218217297955225_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=7f8c78&_nc_ohc=FhKv-2BEknsAX_-3r2q&_nc_ht=scontent.fbog4-1.fna&oh=00_AfAumgISDE-m48K2PNVbx1v7gzYXldbngwX39tjPWD-krw&oe=64E0B876)
+![developer](https://scontent.fbog4-1.fna.fbcdn.net/v/t39.30808-6/367691193_631468389084030_6042218217297955225_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=7f8c78&_nc_ohc=FhKv-2BEknsAX_-3r2q&_nc_ht=scontent.fbog4-1.fna&oh=00_AfAumgISDE-m48K2PNVbx1v7gzYXldbngwX39tjPWD-krw&oe=64E0B876)
 
-🟣 **¡Estoy encantada de conocerte!** Mi viaje en el desarrollo web comenzó con mi amor por la programación y el diseño. Con experiencia tanto en el Front End como en el Back End, me siento como en casa trabajando con tecnologías como:
+🟣 **¡I'm glad to meet you!** My web development journey began with my love of programming and design. With experience in both Front End and Back End, I feel at home working with technologies such as:
 
 ## Backend
 
@@ -92,7 +92,7 @@
 
 </p>
 
-## 🚀 Mis Proyectos
+## 🚀 My Projects
 
 ### [Proyecto 1: IDE Pintureria](https://pinturas-app-front-git-pre-develop-pf-pinturas.vercel.app/developers)
 
@@ -100,9 +100,9 @@
 
 Breve descripción del proyecto y mi contribución.
 
-## 📱 ¡Hablemos!
+## 📱 ¡Let's Talk!
 
-Me encantaría conectarme contigo y discutir ideas emocionantes. Puedes encontrarme en:
+I would love to connect with you and discuss exciting ideas. You can find me at:
 
 - LinkedIn: [Nicole Sofia Camargo](https://www.linkedin.com/in/nicole-sofia-camargo-garcia-189648265/)
 
@@ -125,11 +125,11 @@ Me encantaría conectarme contigo y discutir ideas emocionantes. Puedes encontra
 
 
 
-## 💖 ¡Gracias por Visitar!
+## 💖 ¡Thanks For Visiting!
 
-Gracias por explorar mi espacio en GitHub. Si te ha gustado lo que has visto, ¡no dudes en dejarme una estrella! Espero verte pronto en el mundo digital.
+Thanks for exploring my space on GitHub. If you liked what you've seen, don't hesitate to leave me a star! I hope to see you soon in the digital world.
 
-## 📊 Estadísticas
+## 📊 Statistics
 
 ![GitHub followers](https://img.shields.io/github/followers/cgnicole?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/cgnicole?style=social)
