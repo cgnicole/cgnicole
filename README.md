@@ -12,7 +12,8 @@ Soy **Nicole**, ¡encantada de conocerte! Mi viaje en el desarrollo web comenzó
 ## Tecnologías que utilizo
 
 ### Front End
-![HTML]([./logos/html-logo.png](https://banner2.cleanpng.com/20190125/wpj/kisspng-computer-icons-html5-scalable-vector-graphics-port-socialpack-chocolate-icon-5c4b3bbcb7d671.680718971548434364753.jpg))
+![HTML](https://banner2.cleanpng.com/20190125/wpj/kisspng-computer-icons-html5-scalable-vector-graphics-port-socialpack-chocolate-icon-5c4b3bbcb7d671.680718971548434364753.jpg)
+
 ![CSS](./logos/css-logo.png)
 ![JavaScript](./logos/js-logo.png)
 ![ReactJS](./logos/react-logo.png)
