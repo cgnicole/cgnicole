@@ -78,7 +78,11 @@ Soy **Nicole**, ¡encantada de conocerte! Mi viaje en el desarrollo web comenzó
   <a href="https://www.notion.so" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/notion.svg" alt="Notion" width="40" height="40"/>
   </a>
+  <a href="https://www.scrum.org" target="_blank" rel="noreferrer">
+    <img src="https://www.scrum.org/themes/custom/scrumorg/images/logo.svg" alt="Scrum" width="40" height="40"/>
+  </a>
 </p>
+
 
 
 
