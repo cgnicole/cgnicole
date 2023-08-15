@@ -69,8 +69,8 @@ Soy **Nicole**, ¡encantada de conocerte! Mi viaje en el desarrollo web comenzó
   <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio Code" width="40" height="40"/>
   </a>
-  <a href="https://www.notion.so" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/notion.svg" alt="Notion" width="40" height="40"/>
+<a href="https://www.notion.so" target="_blank" rel="noreferrer">
+    <img src="https://assets.stickpng.com/images/62cc1585150d5de9a3dad5eb.png" alt="Notion" width="40" height="40"/>
   </a>
   <a href="https://www.scrum.org" target="_blank" rel="noreferrer">
     <img src="https://www.scrum.org/themes/custom/scrumorg_v2/assets/images/logo-250.png" alt="Scrum" width="40" height="40"/>
