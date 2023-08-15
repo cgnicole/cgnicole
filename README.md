@@ -82,8 +82,8 @@ Soy **Nicole**, ¡encantada de conocerte! Mi viaje en el desarrollo web comenzó
   <a href="https://npmjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/npm.png" alt="npm" width="40" height="40"/>
   </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+ <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png" alt="GitHub" width="40" height="40"/>
   </a>
 
 
