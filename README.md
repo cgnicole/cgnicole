@@ -59,8 +59,9 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
   <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio Code" width="40" height="40"/>
-  </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" alt="Visual Studio Code" width="40" height="40"/>
+</a>
+
 
   <a href="https://www.scrum.org" target="_blank" rel="noreferrer">
     <img src="https://www.scrum.org/themes/custom/scrumorg_v2/assets/images/logo-250.png" alt="Scrum" width="40" height="40"/>
