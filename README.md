@@ -110,7 +110,7 @@ Me encantaría conectarme contigo y discutir ideas emocionantes. Puedes encontra
   <a href="https://www.linkedin.com/in/nicole-sofia-camargo-garcia-189648265/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Nicole Camargo LinkedIn Profile" width="40" height="40">
   </a>
-  - LinkedIn: [Nicole Sofia Camargo](https://www.linkedin.com/in/nicole-sofia-camargo-garcia-189648265/)
+
 </p>
 
   
