@@ -60,6 +60,12 @@ Soy **Nicole**, ¡encantada de conocerte! Mi viaje en el desarrollo web comenzó
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
+  
+  <a href="https://npmjs.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/npm.png" alt="npm" width="40" height="40"/>
+  </a>
+
+
 </p>
 
 ## 🚀 Mis Proyectos
