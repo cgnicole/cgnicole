@@ -1,4 +1,4 @@
-<div style="background-image: url('https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBpNzVibDZjNHFscW9oMTV6ZmUzOXIwOHdieWNrbzV2eXc2aXYzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dAWZiSMbMvObDWP3aA/giphy.gif'); background-size: cover; background-repeat: no-repeat; padding: 100px;">
+<div style="background-image: url("https://images.pexels.com/photos/7130544/pexels-photo-7130544.jpeg?cs=srgb&dl=pexels-codioful-%28formerly-gradienta%29-7130544.jpg&fm=jpg")>
 
 
 
