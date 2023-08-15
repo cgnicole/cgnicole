@@ -34,3 +34,12 @@ Me encantaría conectarme contigo y discutir ideas emocionantes. Puedes encontra
 ## 💖 ¡Gracias por Visitar!
 
 Gracias por explorar mi espacio en GitHub. Si te ha gustado lo que has visto, ¡no dudes en dejarme una estrella! Espero verte pronto en el mundo digital.
+
+name: Full-year calendar
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.isocalendar.fullyear.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_isocalendar: yes
+  plugin_isocalendar_duration: full-year
