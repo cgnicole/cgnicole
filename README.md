@@ -40,7 +40,6 @@ Gracias por explorar mi espacio en GitHub. Si te ha gustado lo que has visto, ¡
 
 ![GitHub followers](https://img.shields.io/github/followers/cgnicole?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/cgnicole?style=social)
-![GitHub issues](https://img.shields.io/github/issues/cgnicole/cgnicole)
 ![GitHub last commit](https://img.shields.io/github/last-commit/cgnicole/cgnicole)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/cgnicole/cgnicole)
 
