@@ -49,6 +49,9 @@ Soy **Nicole**, ¡encantada de conocerte! Mi viaje en el desarrollo web comenzó
     <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/vitejs/vite/main/docs/src/static/vite.svg" alt="Vite" width="40" height="40"/>
   </a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
+  </a>
 </p>
 
 ## Softwares and Tools
