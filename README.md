@@ -1,3 +1,7 @@
+<div style="background-image: url('https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBpNzVibDZjNHFscW9oMTV6ZmUzOXIwOHdieWNrbzV2eXc2aXYzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dAWZiSMbMvObDWP3aA/giphy.gif'); background-size: cover; background-repeat: no-repeat; padding: 100px;">
+
+
+
 # ¡Bienvenid@ a mi Espacio en GitHub! 🚀
 
 ¡Hola! Soy **Nicole Camargo**, una apasionada Full Stack Web Developer con un toque creativo y una pasión por crear experiencias digitales increíbles. Como mujer en la industria, estoy emocionada de compartir contigo mis proyectos y habilidades.
@@ -114,3 +118,5 @@ Gracias por explorar mi espacio en GitHub. Si te ha gustado lo que has visto, ¡
 ![GitHub stars](https://img.shields.io/github/stars/cgnicole?style=social)
 ![GitHub last commit](https://img.shields.io/github/last-commit/cgnicole/cgnicole)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/cgnicole/cgnicole)
+
+</div>
