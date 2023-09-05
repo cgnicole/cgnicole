@@ -84,13 +84,6 @@
   </a>
 </p>
 
-## 🚀 My Projects
-
-### [Proyecto 1: IDE Pintureria](https://pinturas-app-front-git-pre-develop-pf-pinturas.vercel.app/developers)
-
-![Proyecto 1](https://scontent.fbog4-2.fna.fbcdn.net/v/t39.30808-6/367698400_631470009083868_8542710346919750823_n.jpg?stp=cp6_dst-jpg&_nc_cat=109&ccb=1-7&_nc_sid=7f8c78&_nc_ohc=aofulvBFv40AX9if1jl&_nc_ht=scontent.fbog4-2.fna&oh=00_AfBEtGP8QxOARdcw4FMSdU7okzgti98D2vA3rFDYju1Rzw&oe=64E0B56F)
-
-Breve descripción del proyecto y mi contribución.
 
 ## 📱 ¡Let's Talk!
 
